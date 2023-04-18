@@ -1,0 +1,4 @@
+this the test and this a static file
+that stores images , videos
+include data that can people view publiclity 
+dont store sensitive data
